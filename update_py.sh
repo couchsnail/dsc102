@@ -1,3 +1,3 @@
 #!/bin/bash
 
-scp -i DSCKEY.pem ubuntu@$1:*.py PA0
+scp -i DSCKEY.pem ubuntu@$1:*.py .
